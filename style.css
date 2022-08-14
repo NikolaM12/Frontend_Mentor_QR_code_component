@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Red+Hat+Display&display=swap');
+body {
+    background-color: #d5e1ef;
+}
+h1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 22px;
+    padding: 5px 10px;
+}
+p {
+    font-family: 'Outfit', sans-serif;
+    color: #b4b4b4;
+    font-size: 15px;
+    padding: 5px 20px;
+}
+.component {
+    background-color: #ffffff;
+    width: 300px;
+    margin: 2vh auto;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.imgQRcode {
+    width: 100%;
+    border-radius: 20px;
+}
+.attribution {
+    text-align: center;
+}
+.attribution mark {
+    padding: 2px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.attribution a {
+    text-decoration: none;
+}
